@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning more about Flutter & Dart for Creating Web & Mobile Apps.
 - 👯 I’m looking to collaborate on Wordpress & Flutter Projects
 - 💬 Ask me about Wordpress, Woocommerce & Flutter.
-- 📫 How to reach me: [LinkedIn - Profile] https://github.com/AbdulSattarSuleman/
+- 📫 How to reach me: [LinkedIn - Profile] https://www.linkedin.com/in/abdulsattarsuleman/
 - 😄 Pronouns: He/His
 
 **Languages and Tools & Services:**
@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSattarSuleman&theme=light&hide_langs_below=1" />
 </a>
 <br/><br/><br/>
-<a href=https://github.com/AbdulSattarSuleman">
+<a href="https://github.com/AbdulSattarSuleman">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulSattarSuleman&show_icons=true&theme=light&line_height=27" alt="Abdul Sattar's github stats"/>
 </a>
 <div align="center">
